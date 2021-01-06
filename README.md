@@ -1,4 +1,4 @@
-# Site WEB pour les livres électroniques gratuits :books: .
+# Site WEB pour des livres électroniques gratuits et articles scientifiques :books: :page\_facing\_up: .
 
 Voici des plateformes qui vous permettront de trouver des livres numériques gratuits et lire encore plus durant cette période de confinement si vous êtes un fanatique de lecture:
 
@@ -53,3 +53,74 @@ Voici des plateformes qui vous permettront de trouver des livres numériques gra
 
 17. ### The online books page [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=http%3A%2F%2Fonlinebooks.library.upenn.edu%2F)](http://onlinebooks.library.upenn.edu/)
 + **Description:** Ce site Web est extrêmement facile à comprendre et à naviguer avec 5 catégories principales et les sous-catégories pertinentes. Pour télécharger des livres, vous pouvez rechercher de nouvelles listes, auteurs, titres, sujets ou publications en série. D'autre part, vous pouvez également parcourir les actualités, les fonctionnalités, les archives et les index et l'histoire interne pour plus d'informations. Il contient plus de 3 millions de livres.
+
+18. ### Lean pub [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fleanpub.com%2F)](https://leanpub.com/)
++ **Description:** Vous êtes libre de publier votre livre ailleurs en même temps que vous le publiez sur Leanpub. Cependant, d'autres plates-formes peuvent ne pas vous permettre de publier à deux endroits à la fois. Le prix minimum des livres est fixé à 0 $ par l'auteur et vous pouvez ensuite décider de la valeur du livre. Le site propose principalement des livres électroniques sur des langages de programmation tels que JavaScript, C #, PHP ou Ruby, des guides, etc., et est donc connu des développeurs ou des geeks de la technologie et est particulièrement utile pour ceux qui se préparent à l'ingénierie.
+
+19. ### Sci-hub [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fsci-hub.do%2F)](https://sci-hub.do/) [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fsci-hub-links.com%2F)](https://sci-hub-links.com/)
++ **Description:** C'est un site web fournissant un accès libre à des articles scientifiques, permetant ainsi de consulter gratuitement plus de 80 millions d'articles. Le projet Sci-Hub a débuté le 5 septembre 2011. Il a été fondé par Alexandra Elbakyan, étudiante en neurosciences au Kazakhstan, dans le but de diffuser plus largement le savoir scientifique chez les personnes étant, comme elle, bloquées par les [*paywalls*](https://fr.wikipedia.org/wiki/Paywall).
+
+20. ### Open culture [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.openculture.com%2F)](https://www.openculture.com/)
++ **Description:** Ce site Web est un média éducatif gratuit. Trouvez des milliers de cours en ligne gratuits, de livres audio, de manuels, de livres électroniques, de cours de langue, de films et plus encore. Le site propose plus de 800 livres électroniques gratuits pour les étudiants et il présente également les livres de fiction classiques d'auteurs célèbres tels que William Shakespear, Stefen Zwaig, etc., ce qui leur donne un avantage sur la littérature. Créée par de vrais éditeurs, la liste des catégories est fréquemment mise à jour.
+
+21. ### Open culture [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fbookspics.com%2F)](https://bookspics.com/)
++ **Description:** Ce site vous permet de télécharger gratuitement de nouveaux livres et magazines. Même si elle dispose d'une version premium pour des vitesses de téléchargement plus rapides et illimitées, la version gratuite fonctionne également très bien. Il propose une grande variété de livres et de magazines chaque jour pour votre fourrage quotidien, alors allez-y maintenant!
+
+22. ### Get free ebooks [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.getfreeebooks.com%2F)](https://www.getfreeebooks.com/)
++ **Description:** Ce site est un portail légal où vous pouvez télécharger des livres à votre guise. L'avantage de ce site par rapport aux autres est qu'il s'agit d'une plateforme légale de téléchargement de livres. Les principaux avantages de ce portail par rapport aux autres sont qu'il contient de nombreux livres dans sa bibliothèque, de nombreuses catégories de livres et vous permet de soumettre librement un livre de votre choix.
+
+23. ### PDF drive [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.pdfdrive.com%2F)](https://www.pdfdrive.com/)
++ **Description:** Ce site Web est votre moteur de recherche de fichiers PDF. Au moment de la rédaction de cet article, ils ont 76,460,976 eBooks à télécharger gratuitement. Pas d'annonces ennuyeuses, pas de limite de téléchargement, profitez-en et n'oubliez pas de mettre en favori :star: et de partager l'amour :heart: !
+ 
+24. ### Easy engineering [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Feasyengineering.net%2F)](https://easyengineering.net/)
++ **Description:** Ce blog éducationnel contient des livres sur l'ingénierie.
+
+25. ### Many books [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fmanybooks.net%2F)](https://manybooks.net/)
++ **Description:** Ce site Web propose une grande sélection de livres modernes et classiques à découvrir.
+
+26. ### All about engineering [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.allabout-engineering.com%2F)](https://www.allabout-engineering.com/)
++ **Description:** Ce site Web contient de nombreux livres sur l'ingénierie.
+
+27. ### PDF room [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fpdfroom.com%2F)](https://pdfroom.com/)
++ **Description:** Ceci est un moteur de recherche de livres PDF.
+
+28. ### LibriVox [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Flibrivox.org%2F)](https://librivox.org/)
++ **Description:** C'est un site Web qui offre une collection gratuite de livres audio du domaine public. Cela plaira aux personnes qui n’ont pas le temps de «lire» des livres, mais qui peuvent trouver le temps d’écouter des livres via des livres audio. Cliquez simplement sur leur «catalogue» et trouvez des centaines de livres audio, prêts à être téléchargés, qui peuvent également être filtrés par auteur, titre, genre ou langue.
+
+29. ### Free computer books [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Ffreecomputerbooks.com%2F)](https://freecomputerbooks.com/)
++ **Description:** Tout sur ce site est 100% gratuit. Cela comprend des livres, des notes de cours, des magazines, des livres blancs, des tutoriels et bien plus encore.
+*FreeComputerBooks* se compose d'une énorme collection de livres informatiques, de programmation, de mathématiques, d'ingénierie et techniques en ligne gratuits, qui sont bien classés par thèmes, avec 13 catégories de premier niveau et plus de 200 sous-catégories. Il dispose à la fois de moteurs de recherche de modèles et de mots-clés pour vous permettre de trouver rapidement les titres.
+
+30. ### loyal books [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=http%3A%2F%2Fwww.loyalbooks.com%2F)](http://www.loyalbooks.com/)
++ **Description:** ce site Web a une GRANDE collection de livres classés en différents sujets, ainsi que des ebooks à télécharger dans divers formats, du Kindle Mobi au pdf en passant par un livre audio.
+
+31. ### Wikisource [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FWikisource%3ABooks)](https://en.wikisource.org/wiki/Wikisource:Books)
++ **Description:** Nous avons peut-être tous entendu parler de [*Wikipédia*](https://en.wikipedia.org/), mais il existe une autre source similaire pour obtenir des livres gratuits à lire et c'est *Wikisource*. Sous-titré comme ***une bibliothèque gratuite que tout le monde peut améliorer***, c'est une autre source gratuite pour les personnes qui cherchent à publier des livres du domaine public car presque tous les livres donnés ici sont cités avec leur année de publication, et beaucoup peuvent être trouvés qui sont publiés Dans le 19ème siècle.
+
+32. ### Ebooks gratuits [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.ebooksgratuits.com%2F)](https://www.ebooksgratuits.com/)
++ **Description:** C'est un site Web qui vous permet de télécharger des ebooks gratuits, à partir de textes libres de droit. 
+
+33. ### Science open [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fwww.scienceopen.com)](https://www.scienceopen.com)
++ **Description:** Il s'agit de l'alternative *Sci-hub* la plus utilisée dans le monde. Les chercheurs peuvent avoir accès à l'environnement de découverte interactif pour l'amélioration de leurs activités de recherche. *ScienceOpen* dispose également d'un comité consultatif et d'un éditorial expérimentés. Ils réglementent toute l'infrastructure.
+
+34. ### Springer link [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Flink.springer.com%2F)](https://link.springer.com/)
++ **Description:** *SpringerLink* est également la meilleure alternative à *Sci-hub*. De nombreuses personnes dans le monde utilisent ce site Web pour télécharger des articles de recherche et des revues scientifiques. Cette base de données augmente constamment de jour en jour alors que l'équipe derrière ce site Web incroyable ajoute régulièrement de nouveaux articles de recherche.
+ 
+35. ### HAL archives ouvertes [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fhal.archives-ouvertes.fr%2F)](https://hal.archives-ouvertes.fr/)
++ **Description:** Le site Web est en ***français*** qui vous permet désormais avoir accès à des millions d'articles de recherche et de revues.
+ 
+36. ### Cyber Leninka [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fcyberleninka.org%2F)](https://cyberleninka.org/)
++ **Description:** *CyberLeninka* est une bibliothèque électronique scientifique russe et possède de nombreux contenus presque en millions. Selon Wikipédia, selon Webometrics, l'analyse est sélectionnée parmi les 5 meilleures archives ouvertes au monde. Vous pouvez l'utiliser comme alternative *Sci-hub*. Le site Web est convivial et peut vous donner accès à de nombreux documents de recherche.
+
+37. ### Paper downloader [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=http%3A%2F%2Fpaperdownloader.cf%2F)](http://paperdownloader.cf/)
++ **Description:** Ce site Web semble un peu nouveau et utilise des serveurs *Sci-hub* en arrière-plan pour permettre d'accéder à des articles de recherche payants en téléchargement gratuit. Le contenu de ce site Web est plus récent que celui d'autres sites Web.
+L'interface est très simple et directe. Vous pouvez rechercher l'article par *DOI*, *PubMed ID* ou même en collant l'*URL* de l'article de recherche.
+
+38. ### Open access button [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fopenaccessbutton.org%2F)](https://openaccessbutton.org/)
++ **Description:** *Open access button* est une autre alternative à *Sci-hub*. C'est un bookmarklet de navigateur et vous aide de plusieurs manières. Si vous ne souhaitez pas obtenir de paywalls, cette extension de navigateur vous sera bénéfique. Il est mené par la *Right to Research Coalition & Medsin UK*.
+
+39. ### CORE [![Website](https://img.shields.io/website?down_color=red&down_message=ne%20fonctionne%20pas&up_color=green&up_message=fonctionne&url=https%3A%2F%2Fcore.ac.uk%2F)](https://core.ac.uk/)
++ **Description:** *CORE* signifie COnnecting Repositories. *Knowledge Media Institute* fournit cela, basé à l'*Open University*, *Royaume-Uni*. *CORE* vous donne un accès gratuit à des millions d'articles de recherche. Ils ne facturent pas un centime et tout le contenu est gratuit. Il vous donne également des filtres afin que vous puissiez affiner votre recherche pour des résultats précis. Cette alternative *Sci-hub* vous fournit également une version PDF.
+ 
+
+**Et maintenant, il est temps de lire. Quel sera le premier livre que vous chercherez? peu importe lequel, je vous souhaite une très bonne lecture :relaxed: :v: .**
