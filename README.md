@@ -1,4 +1,4 @@
-# Site WEB pour télécharger des livres électroniques gratuits et articles scientifiques :books: :page\_facing\_up: .
+# Sites WEB pour télécharger des livres électroniques gratuits et articles scientifiques :books: :page\_facing\_up: .
 
 Voici des plateformes qui vous permettront de trouver des livres numériques gratuits et lire encore plus durant cette période de confinement si vous êtes un fanatique de lecture:
 
